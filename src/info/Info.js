@@ -1,9 +1,7 @@
 import self from "../img/self.png"
 import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
-import mock3 from "../img/mock3.png"
-import mock4 from "../img/mock4.png"
-import mock5 from "../img/mock5.png"
+
 
 
 export let colors = ["rgb(255,136,0)", "rgb(153,243,255)"];
@@ -66,6 +64,7 @@ export const info = {
 
     ],
     bio: "Hey, my name is Samantha but I prefer being called Sam. I love discovering and exploring places, culture, history, food, and animals. This curiosity of mine has been a great tool in developling my programming knowledge. Coding is a fun world! The community I found in Centennial College has been incredibly helpful to hone my fresh set of skills!",
+
     
     skills:
         {
@@ -94,9 +93,8 @@ export const info = {
     ],
     portfolio: [ 
         {
-            title: "Project 1",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+            title: "Sam's Resume",
+            live: "https://drive.google.com/file/d/1m-Ok_U6XpqZ7LDFVB-ktRKnDpzLO9dc4/view?usp=sharing", 
             image: mock1
         },
         {
@@ -104,24 +102,6 @@ export const info = {
             live: "https://paytonpierce.dev",
             source: "https://github.com/paytonjewell",
             image: mock2
-        },
-        {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock3
-        },
-        {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock4
-        },
-        {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock5
         }
     ]
 }
