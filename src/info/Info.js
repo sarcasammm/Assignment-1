@@ -64,29 +64,29 @@ export const info = {
         }
 
     ],
-    bio: "Hey, my name is Samantha but I prefer being called Sam. I love discovering and exploring places, culture, history, food, and animals. This curiosity of mine has been a great tool in developling my programming skills. Coding is a fun world!",
+    bio: "Hey, my name is Samantha but I prefer being called Sam. I love discovering and exploring places, culture, history, food, and animals. This curiosity of mine has been a great tool in developling my programming knowledge. Coding is a fun world!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator']
+            proficientWith: ['c#', 'sql', 'linux', 'javascript', 'html5', 'css3',],
+            exposedTo: ['python', 'java', 'nodejs','react', 'git', 'vite']
         }
     ,
     hobbies: [
         {
-            label: 'reading',
-            emoji: '📖'
+            label: 'dancing',
+            emoji: '💃🏻'
         },
         {
-            label: 'theater',
-            emoji: '🎭'
+            label: 'anime',
+            emoji: '👾'
         },
         {
             label: 'movies',
             emoji: '🎥'
         },
         {
-            label: 'cooking',
-            emoji: '🌶'
+            label: 'exploring the city',
+            emoji: '👣'
         }
 // Same as above, change the emojis to match / relate to your hobbies or interests.
 // You can also remove the emojis if you'd like, I just think they look cute :P
