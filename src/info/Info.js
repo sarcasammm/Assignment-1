@@ -20,8 +20,8 @@ export const info = {
     baseColor: colors[0],
     miniBio: [ 
         {
-            emoji: '🍵',
-            text: 'coffee? no! this one is fueled by matcha'
+            emoji: '💭',
+            text: 'live the life you love, love the life you live'
         },
         {
             emoji: '🌎',
@@ -34,6 +34,7 @@ export const info = {
         {
             emoji: "📧",
             text: "samanthadaniellereyes.54@gmail.com"
+            
         }
     ],
     socials: [
@@ -65,6 +66,7 @@ export const info = {
 
     ],
     bio: "Hey, my name is Samantha but I prefer being called Sam. I love discovering and exploring places, culture, history, food, and animals. This curiosity of mine has been a great tool in developling my programming knowledge. Coding is a fun world! The community I found in Centennial College has been incredibly helpful to hone my fresh set of skills!",
+    
     skills:
         {
             proficientWith: ['c#', 'sql', 'linux', 'javascript', 'html5', 'css3',],
@@ -90,7 +92,7 @@ export const info = {
         }
 
     ],
-    portfolio: [ // This is where your portfolio projects will be detailed
+    portfolio: [ 
         {
             title: "Project 1",
             live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
