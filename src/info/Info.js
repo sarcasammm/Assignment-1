@@ -64,7 +64,7 @@ export const info = {
         }
 
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hey, my name is Samantha but I prefer being called Sam. I love discovering and exploring places, culture, history, food, and animals. This curiosity of mine has been a great tool in developling my programming skills. Coding is a fun world!",
     skills:
         {
             proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
