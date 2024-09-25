@@ -88,8 +88,7 @@ export const info = {
             label: 'exploring the city',
             emoji: '👣'
         }
-// Same as above, change the emojis to match / relate to your hobbies or interests.
-// You can also remove the emojis if you'd like, I just think they look cute :P
+
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
