@@ -64,7 +64,7 @@ export const info = {
         }
 
     ],
-    bio: "Hey, my name is Samantha but I prefer being called Sam. I love discovering and exploring places, culture, history, food, and animals. This curiosity of mine has been a great tool in developling my programming knowledge. Coding is a fun world!",
+    bio: "Hey, my name is Samantha but I prefer being called Sam. I love discovering and exploring places, culture, history, food, and animals. This curiosity of mine has been a great tool in developling my programming knowledge. Coding is a fun world! The community I found in Centennial College has been incredibly helpful to hone my fresh set of skills!",
     skills:
         {
             proficientWith: ['c#', 'sql', 'linux', 'javascript', 'html5', 'css3',],
