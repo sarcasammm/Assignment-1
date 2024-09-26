@@ -1,3 +1,5 @@
+//Home.js - Samantha Danielle Reyes - 301372609 - Sept 25, 2024
+
 import React from 'react';
 import Style from './Home.module.scss';
 import me from '../../img/self.png';

@@ -1,3 +1,6 @@
+//Navbar.js - Samantha Danielle Reyes - 301372609 - Sept 25, 2024
+
+
 import React, { useState } from 'react';
 import Style from './Navbar.module.scss';
 import Toggler from "./home/Toggler";

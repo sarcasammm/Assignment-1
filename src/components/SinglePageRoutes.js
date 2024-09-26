@@ -1,3 +1,5 @@
+//SinglePageRoutes.js - Samantha Danielle Reyes - 301372609 - Sept 25, 2024
+
 import Home from "./home/Home";
 import About from "./about/About";
 import Portfolio from "./portfolio/Portfolio";

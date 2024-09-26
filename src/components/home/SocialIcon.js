@@ -1,3 +1,5 @@
+//SocialIcon.js - Samantha Danielle Reyes - 301372609 - Sept 25, 2024
+
 import React from 'react';
 
 function SocialIcon(props) {

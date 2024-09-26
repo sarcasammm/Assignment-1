@@ -1,3 +1,5 @@
+//BaseLayout.js - Samantha Danielle Reyes - 301372609 - Sept 25, 2024
+
 import React, { useEffect, useState } from 'react';
 import Style from './BaseLayout.module.scss'
 import Navbar from "./Navbar";

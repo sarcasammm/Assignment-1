@@ -1,3 +1,5 @@
+//Info.js - Samantha Danielle Reyes - 301372609 - Sept 25, 2024
+
 import self from "../img/self.png"
 import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
