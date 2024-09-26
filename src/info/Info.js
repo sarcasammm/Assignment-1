@@ -82,8 +82,8 @@ export const info = {
             emoji: '👾'
         },
         {
-            label: 'movies',
-            emoji: '🎥'
+            label: 'photography',
+            emoji: '📷'
         },
         {
             label: 'exploring the city',
