@@ -19,7 +19,7 @@ export const info = {
     miniBio: [ 
         {
             emoji: '💭',
-            text: 'live the life you love, love the life you live'
+            text: 'try to be 1% better everyday... your skill will be twice as good in no time, and it will keep going.'
         },
         {
             emoji: '🌎',
