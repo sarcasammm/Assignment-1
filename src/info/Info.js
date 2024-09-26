@@ -19,7 +19,7 @@ export const info = {
     miniBio: [ 
         {
             emoji: '💭',
-            text: 'try to be 1% better everyday... your skill will be twice as good in no time, and it will keep getting better.'
+            text: 'try to be 1% better everyday... your growth will be exponential in no time. :) '
         },
         {
             emoji: '🌎',
