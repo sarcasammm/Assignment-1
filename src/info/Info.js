@@ -99,8 +99,7 @@ export const info = {
         },
         {
             title: "Fall 2023-Winter 2024 HTML/JavaScript Projects",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "https://drive.google.com/file/d/1LfNMgb0owumFBjKWuOlzIUdP0NFbgoK3/view?usp=sharing",
             image: mock2
         }
     ]
