@@ -98,7 +98,7 @@ export const info = {
             image: mock1
         },
         {
-            title: "Project 2",
+            title: "Fall 2023-Winter 2024 HTML/JavaScript Projects",
             live: "https://paytonpierce.dev",
             source: "https://github.com/paytonjewell",
             image: mock2
